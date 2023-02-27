@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    #    use_key_in_widget_constructors: false
+    camel_case_types: false
+    annotate_overrides: false
+    file_names: false
+    prefer_const_constructors: false
+    use_key_in_widget_constructors: false
+    #    library_private_types_in_public_api: false
+    unused_local_variable: false
+    no_leading_underscores_for_local_identifiers: false
+    avoid_init_to_null: false

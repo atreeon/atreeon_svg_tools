@@ -1,0 +1,5 @@
+flutter pub publish --dry-run
+flutter pub publish
+
+flutter build web
+flutter build web --base-href /flutter_packages/
