@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:svg_to_single_line/HomePage.dart';
+import 'package:atreeon_svg_tools/HomePage.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,8 +1,8 @@
 import 'package:atreeon_menu_flutter/menuItem.dart';
 import 'package:atreeon_menu_flutter/menuSand.dart';
 import 'package:flutter/material.dart';
-import 'package:svg_to_single_line/ConvertSvg.dart';
-import 'package:svg_to_single_line/StandardiseSinglePath.dart';
+import 'package:atreeon_svg_tools/ConvertSvg.dart';
+import 'package:atreeon_svg_tools/StandardiseSinglePath.dart';
 
 class HomePage extends StatelessWidget {
   final String title;

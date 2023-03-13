@@ -1,4 +1,4 @@
-name: svg_to_single_line
+name: atreeon_svg_tools
 description: Convert svg files to single line .dart files and standardises the size & top, bottom, left & right
 version: 0.0.1+1
   #a.b.c+d

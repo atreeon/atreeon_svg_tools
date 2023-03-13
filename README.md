@@ -1,21 +1,30 @@
-# svg_to_single_line
+# atreeon_svg_tools
 
 Convert svg files to single line .dart files and standardises the size & top, bottom, left & right and size
 
-<p style="text-align: center;">
-<img alt="atreeon_XXX example" src="https://github.com/atreeon/svg_to_single_line/raw/master/resources/atreeon_XXX.gif">
-</p>
+[//]: # (<p style="text-align: center;">)
 
-## Simple Demo
+[//]: # (<img alt="atreeon_XXX example" src="https://github.com/atreeon/atreeon_svg_tools/raw/master/resources/atreeon_XXX.gif">)
 
-see examples folder for more examples
+[//]: # (</p>)
 
-```
-example code here
-```
+[//]: # (## Simple Demo)
 
-## Features
+[//]: # ()
+[//]: # (see examples folder for more examples)
 
-## Limitations
+[//]: # ()
+[//]: # (```)
 
-## Other Notes / Information
+[//]: # (example code here)
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (## Features)
+
+[//]: # ()
+[//]: # (## Limitations)
+
+[//]: # ()
+[//]: # (## Other Notes / Information)
